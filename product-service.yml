@@ -5,3 +5,5 @@ products:
   c: ${PRODUCTS_C:#{null}}
 app:
   version: "updated!"
+  env:
+    SPRING_PROFILES_ACTIVE: discovery
