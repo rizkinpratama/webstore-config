@@ -7,3 +7,4 @@ app:
   version: "updated!"
   env:
     SPRING_PROFILES_ACTIVE: discovery
+    PIVOTAL_DASHBOARD_ENABLED: true
