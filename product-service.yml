@@ -6,5 +6,5 @@ products:
 app:
   version: "updated!"
   env:
-    SPRING_PROFILES_ACTIVE: discovery
+    SPRING_PROFILES_ACTIVE: "discovery, security"
     PIVOTAL_DASHBOARD_ENABLED: true
